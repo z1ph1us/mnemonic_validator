@@ -80,8 +80,9 @@ The script automatically saves a checkpoint to a hidden file in your home direct
   * `ctrlc`: For handling Ctrl+C signals for graceful exit and checkpointing.
   * `dirs`: For determining user home directory to store checkpoint files.
 
------
+```
 
+-----
 
 ## Support
 If you found this project useful and would like to encourage me to create more tools like it, consider donating:
